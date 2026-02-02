@@ -44,6 +44,35 @@ So if you provide your own constructors with arguments
 
 - Members declared with private visibility are not inherited
 
+types of modifiers in order of privilege ---> 
+- private 
+- default (package private)
+- protected
+- public
+**good practice slide 44**
+
+
+# Method Overriding
+
+A derived class can change the visibility of a superclass’s methods, but only if it provides more access.
+
+So, it must:
+---> have the same name as a superclass method
+---> have the same parameter list as a superclass
+method
+---> have the same return type as a superclass
+method 
+
+access modifier for an overriding method can not be more restrictive than that of its corresponding superclass method
+
+---> if a superclass method is public, then its corresponding overriding method must be public
+---> if a superclass method is protected, then its corresponding  overriding method may be protected or public
+---> if a superclass method is package, then its corresponding overriding method may be package, protected, or public
+
+**Array can store different childs of same parents class**
+
+
+
 
 
 
