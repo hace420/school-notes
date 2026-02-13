@@ -1,3 +1,4 @@
+part 2 of [[Lecture 2 - Inheritance]]
  **private standing final cannot be overwritten**
 
 # The super keyword
