@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java 2/Lecture 9b - Abstraction.md",
+                "file": "java 2/Lecture 9b - Abstraction - Generics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 9b - Abstraction"
+              "title": "Lecture 9b - Abstraction - Generics"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "789be0b53f9eb1e6",
@@ -185,8 +186,13 @@
   },
   "active": "ccc3f69b657392c8",
   "lastOpenFiles": [
+    "Pasted image 20260319192126.png",
+    "Pasted image 20260319192005.png",
+    "Pasted image 20260319185417.png",
+    "Pasted image 20260319184926.png",
+    "Pasted image 20260319184913.png",
+    "java 2/Lecture 9b - Abstraction - Generics.md",
     "java 2/Lecture 9 - Interface part 2.md",
-    "java 2/Lecture 9b - Abstraction.md",
     "Pasted image 20260319182025.png",
     "Pasted image 20260319181633.png",
     "Pasted image 20260319180943.png",
@@ -200,10 +206,6 @@
     "System Hardware (Comp 228)/Lecture 3 - 2's compiliment.md",
     "Pasted image 20260312192321.png",
     "Pasted image 20260312192249.png",
-    "Pasted image 20260312190923.png",
-    "Pasted image 20260312190833.png",
-    "Pasted image 20260312190658.png",
-    "Pasted image 20260312185113.png",
     "java 2/Lecture 7 - Recursion.md",
     "java 2/Lecture 5a - Polymorphism part 2.md",
     "java 2/Lecture 5b - Exception Handling.md",
