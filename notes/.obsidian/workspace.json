@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java 2/Lecture 10b - Linked data Structures.md",
+                "file": "java 2/Lecture 11 - Nested classes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 10b - Linked data Structures"
+              "title": "Lecture 11 - Nested classes"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "789be0b53f9eb1e6",
@@ -185,11 +186,23 @@
   },
   "active": "33f7abeab7708b2e",
   "lastOpenFiles": [
-    "Pasted image 20260326200102.png",
-    "Pasted image 20260326200033.png",
-    "Pasted image 20260326195945.png",
-    "Pasted image 20260326195847.png",
-    "Pasted image 20260326195424.png",
+    "Pasted image 20260402202229.png",
+    "Pasted image 20260402202149.png",
+    "Pasted image 20260402202103.png",
+    "Pasted image 20260402201923.png",
+    "Pasted image 20260402201823.png",
+    "Pasted image 20260402201724.png",
+    "Pasted image 20260402201646.png",
+    "Pasted image 20260402201504.png",
+    "Pasted image 20260402201008.png",
+    "Pasted image 20260402200643.png",
+    "Pasted image 20260402195230.png",
+    "System Hardware (Comp 228)/Lecture 4 - Error detection and correction.md",
+    "System Hardware (Comp 228)/Lecture 3 - 2's compiliment.md",
+    "System Hardware (Comp 228)/Lecture 2 - Binary.md",
+    "java 2/Lecture 11 - Nested classes.md",
+    "System Hardware (Comp 228)/Lecture 10 - Memory.md",
+    "java 2/Lecture 10b - Linked data Structures.md",
     "java 2/Lecture 7 - Recursion.md",
     "java 2/Lecture 5b - Exception Handling.md",
     "java 2/Lecture 5a - Polymorphism part 2.md",
@@ -200,20 +213,10 @@
     "java 2/Lecture 9 - Interface part 2.md",
     "java 2/Lecture 9b - Abstraction - Generics.md",
     "java 2/Lecture 10 - Generics.md",
-    "java 2/Lecture 10b - Linked data Structures.md",
-    "Pasted image 20260326193909.png",
-    "Pasted image 20260326193751.png",
-    "Pasted image 20260326193632.png",
     "Untitled.canvas",
-    "Pasted image 20260326190345.png",
-    "Pasted image 20260326190341.png",
-    "Pasted image 20260326190336.png",
-    "System Hardware (Comp 228)/Lecture 2 - Binary.md",
     "System Hardware (Comp 228)/Lecture 5 - Circuits.md",
     "System Hardware (Comp 228)/Lecture 8 - Assembly code.md",
     "System Hardware (Comp 228)/Lecture 7 - Computer organisation and architecture.md",
-    "System Hardware (Comp 228)/Lecture 4 - Error detection and correction.md",
-    "System Hardware (Comp 228)/Lecture 3 - 2's compiliment.md",
     "java 2/lecture 1.md",
     "System Hardware (Comp 228)",
     "Welcome.md",
