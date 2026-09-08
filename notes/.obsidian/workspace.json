@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f44f23c3c119338c",
+        "id": "3cf0f3693d2b4037",
         "type": "tabs",
         "children": [
           {
-            "id": "33f7abeab7708b2e",
+            "id": "53a0368644e62cf3",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20260409183602.png"
+                "file": "Probability and stats (Comp 233)/Lecture 1 - Probability Theory.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260409183602"
+              "icon": "lucide-file",
+              "title": "Lecture 1 - Probability Theory"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -76,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "789be0b53f9eb1e6",
@@ -181,8 +186,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "33f7abeab7708b2e",
+  "active": "53a0368644e62cf3",
   "lastOpenFiles": [
+    "Pasted image 20260908112117.png",
+    "Pasted image 20260908112102.png",
+    "Pasted image 20260908112052.png",
+    "Pasted image 20260908112043.png",
+    "Pasted image 20260908112013.png",
+    "Pasted image 20260908112011.png",
+    "Pasted image 20260908111703.png",
+    "Pasted image 20260908111553.png",
+    "Pasted image 20260908111353.png",
+    "Pasted image 20260908111235.png",
+    "Pasted image 20260908111032.png",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Probability and stats (Comp 233)/Lecture 1 - Probability Theory.md",
+    "Probability and stats (Comp 233)",
     "java 2/Lecture 9 - Interface part 2.md",
     "java 2/Lecture 9b - Abstraction - Generics.md",
     "java 2/Lecture 5b - Exception Handling.md",
@@ -198,23 +218,12 @@
     "System Hardware (Comp 228)/Lecture 8 - Assembly code.md",
     "System Hardware (Comp 228)/Lecture 10 - Memory.md",
     "System Hardware (Comp 228)/Lecture 12 - REVIEW.md",
-    "Pasted image 20260413193720.png",
-    "Pasted image 20260413193059.png",
-    "Pasted image 20260413185706.png",
-    "Pasted image 20260413183118.png",
     "java 2/Lecture 12 - Node as Inner class.md",
-    "Pasted image 20260409191146.png",
-    "Pasted image 20260409190940.png",
-    "Pasted image 20260409190910.png",
-    "Pasted image 20260409190038.png",
-    "Pasted image 20260409183602.png",
-    "Pasted image 20260409182948.png",
     "System Hardware (Comp 228)/Lecture 2 - Binary.md",
     "java 2/Lecture 5a - Polymorphism part 2.md",
     "java 2/Lecture 4 - Polymorphism.md",
     "java 2/Lecture 3 - Inheritance part 2.md",
     "java 2/Lecture 2 - Inheritance.md",
-    "Untitled.canvas",
     "java 2/lecture 1.md",
     "System Hardware (Comp 228)",
     "Welcome.md",
