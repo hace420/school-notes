@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms (Comp 352)/Lecture 1 - Algorithm Analysis.md",
+                "file": "GEOG 220/Lecture 1 - Intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 1 - Algorithm Analysis"
+              "title": "Lecture 1 - Intro"
             }
           }
         ]
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "789be0b53f9eb1e6",
@@ -188,12 +187,14 @@
   },
   "active": "53a0368644e62cf3",
   "lastOpenFiles": [
+    "Untitled.md",
+    "GEOG 220/Lecture 1 - Intro.md",
+    "GEOG 220",
+    "Algorithms (Comp 352)/Lecture 1 - Algorithm Analysis.md",
     "Pasted image 20260909112330.png",
     "Pasted image 20260909112218.png",
     "Pasted image 20260909112155.png",
     "Pasted image 20260909111000.png",
-    "Untitled.md",
-    "Algorithms (Comp 352)/Lecture 1 - Algorithm Analysis.md",
     "Algorithms (Comp 352)",
     "Probability and stats (Comp 233)/Lecture 1 - Probability Theory.md",
     "Pasted image 20260908112117.png",
@@ -202,7 +203,6 @@
     "Pasted image 20260908112043.png",
     "Pasted image 20260908112013.png",
     "Pasted image 20260908112011.png",
-    "Pasted image 20260908111703.png",
     "Untitled.canvas",
     "Probability and stats (Comp 233)",
     "java 2/Lecture 9 - Interface part 2.md",
