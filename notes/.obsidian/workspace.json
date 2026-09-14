@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3cf0f3693d2b4037",
+        "id": "bee8e5a545ba4905",
         "type": "tabs",
         "children": [
           {
-            "id": "53a0368644e62cf3",
+            "id": "f4cc6e04a9d68c1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms (Comp 352)/Lecture 1 - Algorithm Analysis.md",
+                "file": "MANA 201/Lecture 1- Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,10 +186,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "53a0368644e62cf3",
+  "active": "f4cc6e04a9d68c1b",
   "lastOpenFiles": [
-    "Algorithms (Comp 352)/Lecture 2 - Analysis.md",
+    "Pasted image 20260914184912.png",
+    "Pasted image 20260914184531.png",
+    "Pasted image 20260914184252.png",
+    "Pasted image 20260914184122.png",
+    "Pasted image 20260914184034.png",
     "MANA 201/Lecture 1- Intro.md",
+    "Algorithms (Comp 352)/Lecture 2 - Analysis.md",
     "MANA 201",
     "Pasted image 20260911112608.png",
     "Pasted image 20260911112318.png",
@@ -197,10 +202,6 @@
     "Pasted image 20260911111533.png",
     "Pasted image 20260911111049.png",
     "Pasted image 20260911111023.png",
-    "Pasted image 20260911111003.png",
-    "Pasted image 20260911110917.png",
-    "Pasted image 20260911110753.png",
-    "Pasted image 20260911110731.png",
     "Algorithms (Comp 352)/Lecture 1 - Algorithm Analysis.md",
     "GEOG 220/Lecture 1 - Intro.md",
     "Untitled.md",
@@ -228,7 +229,6 @@
     "System Hardware (Comp 228)/Lecture 2 - Binary.md",
     "java 2/Lecture 5a - Polymorphism part 2.md",
     "java 2/Lecture 4 - Polymorphism.md",
-    "java 2/Lecture 3 - Inheritance part 2.md",
     "System Hardware (Comp 228)",
     "java 2"
   ]
