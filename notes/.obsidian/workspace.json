@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MANA 201/Lecture 1 - Chapter 2.md",
+                "file": "Probability and stats (Comp 233)/Lecture 2 - Computing Probabilities.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 1 - Chapter 2"
+              "title": "Lecture 2 - Computing Probabilities"
             }
           }
         ]
@@ -188,27 +188,28 @@
   },
   "active": "f4cc6e04a9d68c1b",
   "lastOpenFiles": [
+    "Pasted image 20260915110558.png",
+    "Pasted image 20260915110313.png",
+    "Pasted image 20260915110153.png",
+    "Pasted image 20260915110050.png",
+    "Pasted image 20260915105746.png",
+    "Pasted image 20260915105736.png",
+    "Pasted image 20260915104351.png",
+    "Pasted image 20260915104205.png",
+    "Probability and stats (Comp 233)/Lecture 2 - Computing Probabilities.md",
+    "Pasted image 20260915103435.png",
+    "Probability and stats (Comp 233)/Lecture 1 - Probability Theory.md",
+    "MANA 201/Lecture 1 - Chapter 2.md",
     "Pasted image 20260914192436.png",
     "Pasted image 20260914191749.png",
     "MANA 201/Lecture 1- Intro.md",
-    "MANA 201/Lecture 1 - Chapter 2.md",
-    "Pasted image 20260914184912.png",
-    "Pasted image 20260914184531.png",
-    "Pasted image 20260914184252.png",
-    "Pasted image 20260914184122.png",
-    "Pasted image 20260914184034.png",
     "Algorithms (Comp 352)/Lecture 2 - Analysis.md",
     "MANA 201",
-    "Pasted image 20260911112608.png",
-    "Pasted image 20260911112318.png",
-    "Pasted image 20260911112148.png",
-    "Pasted image 20260911111533.png",
     "Algorithms (Comp 352)/Lecture 1 - Algorithm Analysis.md",
     "GEOG 220/Lecture 1 - Intro.md",
     "Untitled.md",
     "GEOG 220",
     "Algorithms (Comp 352)",
-    "Probability and stats (Comp 233)/Lecture 1 - Probability Theory.md",
     "Untitled.canvas",
     "Probability and stats (Comp 233)",
     "java 2/Lecture 9 - Interface part 2.md",
@@ -228,7 +229,6 @@
     "System Hardware (Comp 228)/Lecture 12 - REVIEW.md",
     "java 2/Lecture 12 - Node as Inner class.md",
     "System Hardware (Comp 228)/Lecture 2 - Binary.md",
-    "java 2/Lecture 5a - Polymorphism part 2.md",
     "System Hardware (Comp 228)",
     "java 2"
   ]
