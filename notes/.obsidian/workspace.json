@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability and stats (Comp 233)/Lecture 2 - Computing Probabilities.md",
+                "file": "Probability and stats (Comp 233)/Lecture 3 - Conditional Probability.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 2 - Computing Probabilities"
+              "title": "Lecture 3 - Conditional Probability"
             }
           }
         ]
@@ -188,20 +188,21 @@
   },
   "active": "f4cc6e04a9d68c1b",
   "lastOpenFiles": [
+    "Algorithms (Comp 352)/Lecture 3 - Recursion.md",
+    "Probability and stats (Comp 233)/Lecture 3 - Conditional Probability.md",
+    "Pasted image 20260916111251.png",
+    "Pasted image 20260916111104.png",
+    "Pasted image 20260916104932.png",
+    "Pasted image 20260916104704.png",
+    "Probability and stats (Comp 233)/Lecture 2 - Computing Probabilities.md",
     "Pasted image 20260915110558.png",
     "Pasted image 20260915110313.png",
     "Pasted image 20260915110153.png",
     "Pasted image 20260915110050.png",
     "Pasted image 20260915105746.png",
     "Pasted image 20260915105736.png",
-    "Pasted image 20260915104351.png",
-    "Pasted image 20260915104205.png",
-    "Probability and stats (Comp 233)/Lecture 2 - Computing Probabilities.md",
-    "Pasted image 20260915103435.png",
     "Probability and stats (Comp 233)/Lecture 1 - Probability Theory.md",
     "MANA 201/Lecture 1 - Chapter 2.md",
-    "Pasted image 20260914192436.png",
-    "Pasted image 20260914191749.png",
     "MANA 201/Lecture 1- Intro.md",
     "Algorithms (Comp 352)/Lecture 2 - Analysis.md",
     "MANA 201",
@@ -228,7 +229,6 @@
     "System Hardware (Comp 228)/Lecture 10 - Memory.md",
     "System Hardware (Comp 228)/Lecture 12 - REVIEW.md",
     "java 2/Lecture 12 - Node as Inner class.md",
-    "System Hardware (Comp 228)/Lecture 2 - Binary.md",
     "System Hardware (Comp 228)",
     "java 2"
   ]
