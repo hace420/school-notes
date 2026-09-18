@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability and stats (Comp 233)/Lecture 3 - Conditional Probability.md",
+                "file": "Algorithms (Comp 352)/Lecture 4 - Recursion 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 3 - Conditional Probability"
+              "title": "Lecture 4 - Recursion 2"
             }
           }
         ]
@@ -188,6 +188,16 @@
   },
   "active": "f4cc6e04a9d68c1b",
   "lastOpenFiles": [
+    "Pasted image 20260918110441.png",
+    "Pasted image 20260918103823.png",
+    "Pasted image 20260918103802.png",
+    "Pasted image 20260918103539.png",
+    "Probability and stats (Comp 233)/Lecture 1 - Probability Theory.md",
+    "Probability and stats (Comp 233)/Lecture 3 - Conditional Probability.md",
+    "Probability and stats (Comp 233)/Lecture 2 - Computing Probabilities.md",
+    "Algorithms (Comp 352)/Lecture 4 - Recursion 2.md",
+    "Algorithms (Comp 352)/Lecture 3 - Recursion.md",
+    "Algorithms (Comp 352)/Lecture 1 - Algorithm Analysis.md",
     "Pasted image 20260917110903.png",
     "Pasted image 20260917110825.png",
     "Pasted image 20260917110803.png",
@@ -195,19 +205,10 @@
     "Pasted image 20260917110359.png",
     "Pasted image 20260917110320.png",
     "Pasted image 20260917105212.png",
-    "Pasted image 20260917105204.png",
-    "Pasted image 20260917104637.png",
-    "Algorithms (Comp 352)/Lecture 3 - Recursion.md",
-    "Probability and stats (Comp 233)/Lecture 3 - Conditional Probability.md",
-    "Pasted image 20260916111251.png",
-    "Pasted image 20260916111104.png",
-    "Probability and stats (Comp 233)/Lecture 2 - Computing Probabilities.md",
-    "Probability and stats (Comp 233)/Lecture 1 - Probability Theory.md",
     "MANA 201/Lecture 1 - Chapter 2.md",
     "MANA 201/Lecture 1- Intro.md",
     "Algorithms (Comp 352)/Lecture 2 - Analysis.md",
     "MANA 201",
-    "Algorithms (Comp 352)/Lecture 1 - Algorithm Analysis.md",
     "GEOG 220/Lecture 1 - Intro.md",
     "Untitled.md",
     "GEOG 220",
@@ -228,7 +229,6 @@
     "System Hardware (Comp 228)/Lecture 7 - Computer organisation and architecture.md",
     "System Hardware (Comp 228)/Lecture 8 - Assembly code.md",
     "System Hardware (Comp 228)/Lecture 10 - Memory.md",
-    "System Hardware (Comp 228)/Lecture 12 - REVIEW.md",
     "System Hardware (Comp 228)",
     "java 2"
   ]
