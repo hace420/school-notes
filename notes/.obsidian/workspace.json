@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms (Comp 352)/Lecture 4 - Recursion 2.md",
+                "file": "MANA 201/Lecture 2 - Decision Making.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 4 - Recursion 2"
+              "title": "Lecture 2 - Decision Making"
             }
           }
         ]
@@ -188,23 +188,24 @@
   },
   "active": "f4cc6e04a9d68c1b",
   "lastOpenFiles": [
+    "Pasted image 20260921195255.png",
+    "Pasted image 20260921194952.png",
+    "Pasted image 20260921194444.png",
+    "Pasted image 20260921193822.png",
+    "Pasted image 20260921193742.png",
+    "Pasted image 20260921193707.png",
+    "Pasted image 20260921193636.png",
+    "Pasted image 20260921193609.png",
+    "Algorithms (Comp 352)/Lecture 4 - Recursion 2.md",
+    "MANA 201/Lecture 2 - Decision Making.md",
     "Pasted image 20260918110441.png",
     "Pasted image 20260918103823.png",
     "Pasted image 20260918103802.png",
-    "Pasted image 20260918103539.png",
     "Probability and stats (Comp 233)/Lecture 1 - Probability Theory.md",
     "Probability and stats (Comp 233)/Lecture 3 - Conditional Probability.md",
     "Probability and stats (Comp 233)/Lecture 2 - Computing Probabilities.md",
-    "Algorithms (Comp 352)/Lecture 4 - Recursion 2.md",
     "Algorithms (Comp 352)/Lecture 3 - Recursion.md",
     "Algorithms (Comp 352)/Lecture 1 - Algorithm Analysis.md",
-    "Pasted image 20260917110903.png",
-    "Pasted image 20260917110825.png",
-    "Pasted image 20260917110803.png",
-    "Pasted image 20260917110404.png",
-    "Pasted image 20260917110359.png",
-    "Pasted image 20260917110320.png",
-    "Pasted image 20260917105212.png",
     "MANA 201/Lecture 1 - Chapter 2.md",
     "MANA 201/Lecture 1- Intro.md",
     "Algorithms (Comp 352)/Lecture 2 - Analysis.md",
@@ -228,7 +229,6 @@
     "System Hardware (Comp 228)/Lecture 5 - Circuits.md",
     "System Hardware (Comp 228)/Lecture 7 - Computer organisation and architecture.md",
     "System Hardware (Comp 228)/Lecture 8 - Assembly code.md",
-    "System Hardware (Comp 228)/Lecture 10 - Memory.md",
     "System Hardware (Comp 228)",
     "java 2"
   ]
