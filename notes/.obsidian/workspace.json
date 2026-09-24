@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms (Comp 352)/Lecture 5 - Staks.md",
+                "file": "Probability and stats (Comp 233)/Lecture 5 - Probability as a Function.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 5 - Staks"
+              "title": "Lecture 5 - Probability as a Function"
             }
           }
         ]
@@ -188,19 +188,20 @@
   },
   "active": "f4cc6e04a9d68c1b",
   "lastOpenFiles": [
+    "Pasted image 20260924092419.png",
+    "Pasted image 20260924092411.png",
+    "Pasted image 20260924092344.png",
+    "Pasted image 20260924092226.png",
+    "Pasted image 20260924092006.png",
+    "Pasted image 20260924091939.png",
+    "Pasted image 20260924091932.png",
+    "Algorithms (Comp 352)/Lecture 5 - Staks.md",
+    "Probability and stats (Comp 233)/Lecture 5 - Probability as a Function.md",
     "Pasted image 20260923111543.png",
     "Pasted image 20260923111312.png",
     "Pasted image 20260923111209.png",
     "Pasted image 20260923104708.png",
-    "Pasted image 20260923104646.png",
-    "Pasted image 20260923104607.png",
-    "Pasted image 20260923104215.png",
-    "Pasted image 20260923104156.png",
-    "Pasted image 20260923102521.png",
     "Probability and stats (Comp 233)/Lecture 4 - Conditional Probability 2.md",
-    "Algorithms (Comp 352)/Lecture 5 - Staks.md",
-    "Pasted image 20260922110432.png",
-    "Pasted image 20260922110414.png",
     "Probability and stats (Comp 233)/Lecture 3 - Conditional Probability.md",
     "MANA 201/Lecture 2 - Decision Making.md",
     "Algorithms (Comp 352)/Lecture 4 - Recursion 2.md",
@@ -228,7 +229,6 @@
     "java 2/Lecture 10 - Generics.md",
     "System Hardware (Comp 228)/Lecture 3 - 2's compiliment.md",
     "System Hardware (Comp 228)/Lecture 4 - Error detection and correction.md",
-    "System Hardware (Comp 228)/Lecture 5 - Circuits.md",
     "System Hardware (Comp 228)",
     "java 2"
   ]
