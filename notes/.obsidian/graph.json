@@ -20,18 +20,39 @@
         "a": 1,
         "rgb": 5420768
       }
+    },
+    {
+      "query": "path:\"Algorithms (Comp 352)\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"Probability and stats (Comp 233)\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:\"MANA 201\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.20177135760507,
+  "lineSizeMultiplier": 2.63599581672005,
   "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6704853400563463,
+  "scale": 0.4379389587827304,
   "close": true
 }
