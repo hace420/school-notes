@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms (Comp 352)/Lecture 6 - Queues.md",
+                "file": "MANA 201/Lecture 3 - Managing Planning and Strategy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 6 - Queues"
+              "title": "Lecture 3 - Managing Planning and Strategy"
             }
           }
         ]
@@ -188,19 +188,20 @@
   },
   "active": "43486b934f0f0c3a",
   "lastOpenFiles": [
-    "Pasted image 20260925110550.png",
-    "Pasted image 20260925110534.png",
-    "Pasted image 20260925110526.png",
-    "Pasted image 20260925105720.png",
-    "Pasted image 20260925105645.png",
-    "Pasted image 20260925105627.png",
-    "Pasted image 20260925105147.png",
-    "Pasted image 20260925105038.png",
-    "Pasted image 20260925104703.png",
-    "Pasted image 20260925104052.png",
+    "Pasted image 20260928185042.png",
+    "Pasted image 20260928184802.png",
+    "Pasted image 20260928184651.png",
+    "Pasted image 20260928183927.png",
+    "Pasted image 20260928183814.png",
+    "Pasted image 20260928183632.png",
+    "Pasted image 20260928183616.png",
+    "Pasted image 20260928183608.png",
+    "Pasted image 20260928183552.png",
+    "Pasted image 20260928183525.png",
+    "Pasted image 20260928183502.png",
     "Algorithms (Comp 352)/Lecture 6 - Queues.md",
+    "MANA 201/Lecture 3 - Managing Planning and Strategy.md",
     "Untitled.canvas",
-    "Pasted image 20260925103149.png",
     "Probability and stats (Comp 233)/Lecture 5 - Probability as a Function.md",
     "Algorithms (Comp 352)/Lecture 5 - Staks.md",
     "Probability and stats (Comp 233)/Lecture 4 - Conditional Probability 2.md",
@@ -228,7 +229,6 @@
     "java 2/Lecture 11 - Nested classes.md",
     "java 2/Lecture 10b - Linked data Structures.md",
     "java 2/Lecture 10 - Generics.md",
-    "System Hardware (Comp 228)/Lecture 3 - 2's compiliment.md",
     "System Hardware (Comp 228)",
     "java 2"
   ]
