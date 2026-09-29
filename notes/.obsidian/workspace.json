@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MANA 201/Lecture 3 - Managing Planning and Strategy.md",
+                "file": "Probability and stats (Comp 233)/Lecture 6 - Probability of function 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 3 - Managing Planning and Strategy"
+              "title": "Lecture 6 - Probability of function 2"
             }
           }
         ]
@@ -188,21 +188,22 @@
   },
   "active": "43486b934f0f0c3a",
   "lastOpenFiles": [
-    "Pasted image 20260928185042.png",
-    "Pasted image 20260928184802.png",
-    "Pasted image 20260928184651.png",
-    "Pasted image 20260928183927.png",
-    "Pasted image 20260928183814.png",
-    "Pasted image 20260928183632.png",
-    "Pasted image 20260928183616.png",
-    "Pasted image 20260928183608.png",
-    "Pasted image 20260928183552.png",
-    "Pasted image 20260928183525.png",
-    "Pasted image 20260928183502.png",
-    "Algorithms (Comp 352)/Lecture 6 - Queues.md",
-    "MANA 201/Lecture 3 - Managing Planning and Strategy.md",
-    "Untitled.canvas",
+    "Pasted image 20260929110916.png",
+    "Pasted image 20260929110729.png",
+    "Pasted image 20260929110430.png",
+    "Pasted image 20260929110138.png",
+    "Pasted image 20260929105557.png",
+    "Pasted image 20260929104659.png",
+    "Pasted image 20260929104027.png",
+    "Pasted image 20260929103444.png",
+    "Pasted image 20260929103427.png",
+    "Pasted image 20260929103150.png",
     "Probability and stats (Comp 233)/Lecture 5 - Probability as a Function.md",
+    "Probability and stats (Comp 233)/Lecture 6 - Probability of function 2.md",
+    "MANA 201/Lecture 3 - Managing Planning and Strategy.md",
+    "Pasted image 20260928185042.png",
+    "Algorithms (Comp 352)/Lecture 6 - Queues.md",
+    "Untitled.canvas",
     "Algorithms (Comp 352)/Lecture 5 - Staks.md",
     "Probability and stats (Comp 233)/Lecture 4 - Conditional Probability 2.md",
     "Probability and stats (Comp 233)/Lecture 3 - Conditional Probability.md",
@@ -228,7 +229,6 @@
     "java 2/Lecture 7 - Recursion.md",
     "java 2/Lecture 11 - Nested classes.md",
     "java 2/Lecture 10b - Linked data Structures.md",
-    "java 2/Lecture 10 - Generics.md",
     "System Hardware (Comp 228)",
     "java 2"
   ]
