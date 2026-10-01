@@ -49,6 +49,12 @@ Suppose X has the following probability mass function p(0) = .2, p(1) = .5, p(2)
 ![[Pasted image 20261001111325.png]]
 
 
+# Fundamental Properties
+
+![[Pasted image 20261001112627.png]]
+
+![[Pasted image 20261001112702.png]]
+
 
 
 

@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c5bccb71cc158683",
+        "id": "df799abe8519fcfe",
         "type": "tabs",
         "children": [
           {
-            "id": "be65c4956c2f8884",
+            "id": "5f6028aee8240a4e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20261001110006.png"
+                "file": "Probability and stats (Comp 233)/Lecture 7 - Expectation and Properties of Expectation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20261001110006"
+              "icon": "lucide-file",
+              "title": "Lecture 7 - Expectation and Properties of Expectation"
             }
           }
         ]
@@ -184,10 +186,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "be65c4956c2f8884",
+  "active": "5f6028aee8240a4e",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Pasted image 20261001112702.png",
+    "Pasted image 20261001112627.png",
     "Pasted image 20261001110006.png",
+    "Untitled.canvas",
     "Probability and stats (Comp 233)/Lecture 7 - Expectation and Properties of Expectation.md",
     "Pasted image 20261001111325.png",
     "Pasted image 20261001111312.png",
@@ -197,7 +201,6 @@
     "Pasted image 20261001110736.png",
     "Pasted image 20261001110219.png",
     "Pasted image 20261001110137.png",
-    "Pasted image 20261001105926.png",
     "Algorithms (Comp 352)/Lecture 7 - Linked Lists & Iterators.md",
     "java 2/Lecture 12 - Node as Inner class.md",
     "java 2/Lecture 11 - Nested classes.md",
