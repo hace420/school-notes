@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1d9022866a2453df",
+        "id": "c5bccb71cc158683",
         "type": "tabs",
         "children": [
           {
-            "id": "43486b934f0f0c3a",
+            "id": "be65c4956c2f8884",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Algorithms (Comp 352)/Lecture 7 - Linked Lists & Iterators.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20261001110006.png"
               },
-              "icon": "lucide-file",
-              "title": "Lecture 7 - Linked Lists & Iterators"
+              "icon": "lucide-image",
+              "title": "Pasted image 20261001110006"
             }
           }
         ]
@@ -186,32 +184,32 @@
       "bases:Create new base": false
     }
   },
-  "active": "43486b934f0f0c3a",
+  "active": "be65c4956c2f8884",
   "lastOpenFiles": [
-    "Pasted image 20260930111910.png",
-    "Pasted image 20260930111822.png",
-    "Pasted image 20260930111429.png",
-    "java 2/Lecture 12 - Node as Inner class.md",
+    "Untitled.canvas",
+    "Pasted image 20261001110006.png",
+    "Probability and stats (Comp 233)/Lecture 7 - Expectation and Properties of Expectation.md",
+    "Pasted image 20261001111325.png",
+    "Pasted image 20261001111312.png",
+    "Pasted image 20261001111242.png",
+    "Pasted image 20261001110855.png",
+    "Pasted image 20261001110831.png",
+    "Pasted image 20261001110736.png",
+    "Pasted image 20261001110219.png",
+    "Pasted image 20261001110137.png",
+    "Pasted image 20261001105926.png",
     "Algorithms (Comp 352)/Lecture 7 - Linked Lists & Iterators.md",
+    "java 2/Lecture 12 - Node as Inner class.md",
     "java 2/Lecture 11 - Nested classes.md",
     "java 2/Lecture 10b - Linked data Structures.md",
     "java 2/Lecture 10 - Generics.md",
     "java 2/Lecture 9b - Abstraction - Generics.md",
     "java 2/Lecture 9 - Interface part 2.md",
     "java 2/Lecture 8 - Interfaces.md",
-    "Pasted image 20260930105827.png",
-    "Pasted image 20260930105724.png",
-    "Pasted image 20260930105224.png",
-    "Pasted image 20260930105105.png",
-    "Pasted image 20260930104939.png",
-    "Pasted image 20260930104245.png",
-    "Pasted image 20260930102806.png",
     "Probability and stats (Comp 233)/Lecture 6 - Probability of function 2.md",
-    "Pasted image 20260929110916.png",
     "Probability and stats (Comp 233)/Lecture 5 - Probability as a Function.md",
     "MANA 201/Lecture 3 - Managing Planning and Strategy.md",
     "Algorithms (Comp 352)/Lecture 6 - Queues.md",
-    "Untitled.canvas",
     "Algorithms (Comp 352)/Lecture 5 - Staks.md",
     "Probability and stats (Comp 233)/Lecture 4 - Conditional Probability 2.md",
     "Probability and stats (Comp 233)/Lecture 3 - Conditional Probability.md",
@@ -225,7 +223,6 @@
     "MANA 201/Lecture 1- Intro.md",
     "Algorithms (Comp 352)/Lecture 2 - Analysis.md",
     "MANA 201",
-    "GEOG 220/Lecture 1 - Intro.md",
     "GEOG 220",
     "Algorithms (Comp 352)",
     "Probability and stats (Comp 233)",
