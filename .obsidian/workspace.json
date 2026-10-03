@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8ea48ba44983ff21",
@@ -190,6 +191,9 @@
   },
   "active": "3168444a69a177d0",
   "lastOpenFiles": [
+    "Pasted image 20261003162245.png",
+    "Pasted image 20261003160556.png",
+    "Pasted image 20261003155613.png",
     "Untitled.md",
     "notes/MANA 201/Cheat Sheet.md"
   ]
