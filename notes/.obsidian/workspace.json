@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability and stats (Comp 233)/Lecture 7 - Expectation and Properties of Expectation.md",
+                "file": "MANA 201/Cheat Sheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 7 - Expectation and Properties of Expectation"
+              "title": "Cheat Sheet"
             }
           }
         ]
@@ -188,11 +188,13 @@
   },
   "active": "5f6028aee8240a4e",
   "lastOpenFiles": [
+    "Algorithms (Comp 352)/Lecture 7 - Linked Lists & Iterators.md",
+    "MANA 201/Cheat Sheet.md",
+    "Probability and stats (Comp 233)/Lecture 7 - Expectation and Properties of Expectation.md",
     "Pasted image 20261001112702.png",
     "Pasted image 20261001112627.png",
     "Pasted image 20261001110006.png",
     "Untitled.canvas",
-    "Probability and stats (Comp 233)/Lecture 7 - Expectation and Properties of Expectation.md",
     "Pasted image 20261001111325.png",
     "Pasted image 20261001111312.png",
     "Pasted image 20261001111242.png",
@@ -200,8 +202,6 @@
     "Pasted image 20261001110831.png",
     "Pasted image 20261001110736.png",
     "Pasted image 20261001110219.png",
-    "Pasted image 20261001110137.png",
-    "Algorithms (Comp 352)/Lecture 7 - Linked Lists & Iterators.md",
     "java 2/Lecture 12 - Node as Inner class.md",
     "java 2/Lecture 11 - Nested classes.md",
     "java 2/Lecture 10b - Linked data Structures.md",
