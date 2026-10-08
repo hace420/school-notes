@@ -47,3 +47,4 @@ Suppose the first k trials were Failures.
 
 ![[Pasted image 20261008110948.png]]
 
+
