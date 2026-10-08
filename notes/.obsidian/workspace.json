@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms (Comp 352)/Lecture 9 - Trees.md",
+                "file": "Probability and stats (Comp 233)/Lecture 9 - Bernoulli and Binomial random variable.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 9 - Trees"
+              "title": "Lecture 9 - Bernoulli and Binomial random variable"
             }
           }
         ]
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MANA 201/Lecture 1 - Chapter 2.md",
+                "file": "Probability and stats (Comp 233)/Lecture 9 - Bernoulli and Binomial random variable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,12 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java 2/lecture 1.md",
+                "file": "Probability and stats (Comp 233)/Lecture 9 - Bernoulli and Binomial random variable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from lecture 1"
+              "title": "Outgoing links"
             }
           },
           {
@@ -131,8 +131,8 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
+                "useHierarchy": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -159,16 +159,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java 2/lecture 1.md",
+                "file": "Probability and stats (Comp 233)/Lecture 9 - Bernoulli and Binomial random variable.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of lecture 1"
+              "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -188,49 +189,49 @@
   },
   "active": "5f6028aee8240a4e",
   "lastOpenFiles": [
-    "Pasted image 20261007111409.png",
-    "Pasted image 20261007111324.png",
-    "Pasted image 20261007111058.png",
-    "Pasted image 20261007110950.png",
-    "Pasted image 20261007110948.png",
-    "Pasted image 20261007110642.png",
-    "Pasted image 20261007110632.png",
-    "Pasted image 20261007110512.png",
-    "Pasted image 20261007110505.png",
-    "Pasted image 20261007105435.png",
-    "Pasted image 20261007105304.png",
-    "Comm 213/Ch.2.md",
+    "Pasted image 20261008110948.png",
+    "Pasted image 20261008110716.png",
+    "Pasted image 20261008110520.png",
+    "java 2 (Comp 249)/Lecture 5a - Polymorphism part 2.md",
+    "Probability and stats (Comp 233)/Lecture 9 - Bernoulli and Binomial random variable.md",
+    "Pasted image 20261008110038.png",
+    "Pasted image 20261008105936.png",
+    "Pasted image 20261008104646.png",
+    "Pasted image 20261008104312.png",
+    "Pasted image 20261008104208.png",
+    "Pasted image 20261008104006.png",
+    "Pasted image 20260923104708.png",
     "Algorithms (Comp 352)/Lecture 9 - Trees.md",
-    "MANA 201/Cheat Sheet.md",
-    "Comm 213",
+    "Pasted image 20261007111409.png",
+    "Business Analytics (Comm 213)/Ch.2.md",
+    "Business Management (MANA 201)/Cheat Sheet.md",
+    "Business Analytics (Comm 213)",
     "Algorithms (Comp 352)/Lecture 7 - Linked Lists & Iterators.md",
     "Probability and stats (Comp 233)/Lecture 7 - Expectation and Properties of Expectation.md",
     "Untitled.canvas",
-    "java 2/Lecture 12 - Node as Inner class.md",
-    "java 2/Lecture 11 - Nested classes.md",
-    "java 2/Lecture 10b - Linked data Structures.md",
-    "java 2/Lecture 10 - Generics.md",
-    "java 2/Lecture 9b - Abstraction - Generics.md",
-    "java 2/Lecture 9 - Interface part 2.md",
-    "java 2/Lecture 8 - Interfaces.md",
+    "java 2 (Comp 249)/Lecture 12 - Node as Inner class.md",
+    "java 2 (Comp 249)/Lecture 11 - Nested classes.md",
+    "java 2 (Comp 249)/Lecture 10b - Linked data Structures.md",
+    "java 2 (Comp 249)/Lecture 10 - Generics.md",
+    "java 2 (Comp 249)/Lecture 9b - Abstraction - Generics.md",
+    "java 2 (Comp 249)/Lecture 9 - Interface part 2.md",
+    "java 2 (Comp 249)/Lecture 8 - Interfaces.md",
     "Probability and stats (Comp 233)/Lecture 6 - Probability of function 2.md",
     "Probability and stats (Comp 233)/Lecture 5 - Probability as a Function.md",
-    "MANA 201/Lecture 3 - Managing Planning and Strategy.md",
+    "Business Management (MANA 201)/Lecture 3 - Managing Planning and Strategy.md",
     "Algorithms (Comp 352)/Lecture 6 - Queues.md",
     "Algorithms (Comp 352)/Lecture 5 - Staks.md",
     "Probability and stats (Comp 233)/Lecture 4 - Conditional Probability 2.md",
     "Probability and stats (Comp 233)/Lecture 3 - Conditional Probability.md",
-    "MANA 201/Lecture 2 - Decision Making.md",
+    "Business Management (MANA 201)/Lecture 2 - Decision Making.md",
     "Algorithms (Comp 352)/Lecture 4 - Recursion 2.md",
     "Probability and stats (Comp 233)/Lecture 1 - Probability Theory.md",
     "Probability and stats (Comp 233)/Lecture 2 - Computing Probabilities.md",
-    "Algorithms (Comp 352)/Lecture 3 - Recursion.md",
-    "Algorithms (Comp 352)/Lecture 1 - Algorithm Analysis.md",
-    "MANA 201",
-    "GEOG 220",
+    "Business Management (MANA 201)",
+    "Geology (GEOG 220)",
     "Algorithms (Comp 352)",
     "Probability and stats (Comp 233)",
     "System Hardware (Comp 228)",
-    "java 2"
+    "java 2 (Comp 249)"
   ]
 }
