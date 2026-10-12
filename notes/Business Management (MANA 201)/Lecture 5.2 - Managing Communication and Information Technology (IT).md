@@ -3,6 +3,16 @@
 2. Improve quality
 3. Increase responsiveness to customers 
 4.  Foster innovation
+
+Effective communication  is necessary for managers and all members to increase efficiency quality responsiveness to customers and innovation and this gain a competitive advantage for their organization
+
+# Communication styles
+
+1. analytical
+2. intuitive
+3. functional
+4. personal
+![[Pasted image 20261011153557.png]]
 # The Communication Process
 
 two phases: 

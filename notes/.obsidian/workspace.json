@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "df799abe8519fcfe",
+        "id": "2decb024f8d1d18c",
         "type": "tabs",
         "children": [
           {
-            "id": "5f6028aee8240a4e",
+            "id": "37e0e338f0086557",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business Management (MANA 201)/Lecture 1.2 - Chapter 2.md",
+                "file": "Business Analytics (Comm 213)/Ch.3 - Data Visualization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 1.2 - Chapter 2"
+              "title": "Ch.3 - Data Visualization"
             }
           }
         ]
@@ -185,21 +185,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "5f6028aee8240a4e",
+  "active": "37e0e338f0086557",
   "lastOpenFiles": [
-    "Business Management (MANA 201)/Lecture 1.1- Intro.md",
-    "Business Management (MANA 201)/Lecture 5.1 - Managing Organizational Structure.md",
+    "Pasted image 20261012165308.png",
+    "Pasted image 20261012165130.png",
+    "Pasted image 20261012165007.png",
+    "Pasted image 20261012164907.png",
+    "Pasted image 20261012164702.png",
+    "Pasted image 20261012164509.png",
+    "Pasted image 20261012164146.png",
+    "Pasted image 20261012164138.png",
+    "Pasted image 20261012164125.png",
+    "Pasted image 20261012164054.png",
+    "Pasted image 20261012164039.png",
     "Business Management (MANA 201)/Lecture 5.2 - Managing Communication and Information Technology (IT).md",
-    "Pasted image 20261011144311.png",
-    "Pasted image 20261011143918.png",
-    "Pasted image 20261011142939.png",
-    "Pasted image 20261011142843.png",
-    "Pasted image 20261011142725.png",
-    "Pasted image 20261011142447.png",
-    "Pasted image 20261011142148.png",
-    "Pasted image 20261011141659.png",
-    "Pasted image 20261011141542.png",
-    "Pasted image 20261011141319.png",
+    "Business Analytics (Comm 213)/Ch.3 - Data Visualization.md",
+    "Geology (GEOG 220)/Lecture 1 - Intro.md",
+    "Business Management (MANA 201)/Lecture 5.1 - Managing Organizational Structure.md",
+    "Business Management (MANA 201)/Lecture 5 - Managing Communication and Information Technology (IT).md",
+    "Business Management (MANA 201)/Lecture 1.2 - Chapter 2.md",
+    "Business Management (MANA 201)/Lecture 1.1- Intro.md",
+    "Business Management (MANA 201)/Lecture 5 - Managing Organizational Structure.md",
     "Probability and stats (Comp 233)/Lecture 7 - Expectation and Properties of Expectation.md",
     "[[.md",
     "java 2 (Comp 249)/Lecture 9b - Abstraction - Generics.md",
@@ -216,16 +222,11 @@
     "java 2 (Comp 249)/Lecture 10b - Linked data Structures.md",
     "java 2 (Comp 249)/Lecture 10 - Generics.md",
     "java 2 (Comp 249)",
-    "Geology (GEOG 220)/Lecture 1 - Intro.md",
     "Geology (GEOG 220)",
     "Business Management (MANA 201)/Lecture 3 - Managing Planning and Strategy.md",
     "Business Management (MANA 201)/Lecture 2 - Decision Making.md",
-    "Business Management (MANA 201)/Lecture 1.2 - Chapter 2.md",
-    "Business Management (MANA 201)/Cheat Sheet.md",
     "Business Management (MANA 201)",
-    "Business Analytics (Comm 213)/Ch.2.md",
     "Business Analytics (Comm 213)",
-    "Algorithms (Comp 352)/Lecture 10 - Tress 2.md",
     "Comm 213",
     "Untitled.canvas",
     "MANA 201",

@@ -29,6 +29,7 @@ Characteristics that determine how motivating job is:
 5. Feedback
 ![[Pasted image 20261011141659.png]]
 
+The number of new problems that people encounter in performing their job is task variety and the degree to which programmed solutions are available to solve those problems defines task analyzability 
 # Departmentalization
 
 May be divided by:
@@ -80,6 +81,7 @@ team and report only to the project team manager
 ![[Pasted image 20261011142939.png]]
 
 - In general, the higher the level of uncertainty associated with these factors, the more appropriate a flexible, adaptable structure is as opposed to a formal, rigid one
+- According to **contingency theory** managers design organizational structures to fit the factors or circumstances that are affecting the company the most and causing them the most uncertainty
 
 ## Factors Affecting Choice of Overall Organizational Structure
 
