@@ -164,3 +164,119 @@ Total Sales for Category = CALCULATE( SUM(Sales[Sales Amount]), Products[Categor
 •       The SUM(Sales[Sales Amount]) is then calculated within this modified filter context.
 
 ![[Pasted image 20261012165308.png]]
+
+# 3.3 Chart types
+
+When creating a data visualization, selecting the right chart is crucial for effectively communicating insights. Consider the following factors: 
+
+- Then, **which type of data is being visualized, categorical or numerical?**
+
+	- **Categorical Data:** Charts such as bar charts, pie charts, and column charts.
+    
+	- **Numerical Data:** Charts such as line charts, scatter plots, box plots, and histograms.
+
+- Finally, **what type of analysis have you performed, exploratory or confirmatory?**
+
+	- **Exploratory Analysis:** Used for discovering patterns and trends (e.g., scatter plots, box plots).
+    
+	- **Confirmatory Analysis:** Used for validating hypotheses and making decisions (e.g., bar charts, statistical charts).
+
+### **Dimensions vs. Measures**
+
+Dimensions are **qualitative data** that help categorize, group, or segment your data. They do **not** involve numbers that can be aggregated but instead provide **context** for analysis.
+-  **Customer Name** tells us who made the purchase.
+    
+- **Product Category** helps us group items into meaningful categories.
+    
+- **Order Date** allows us to segment data over time.
+
+Measures, on the other hand, are **quantitative data** that can be aggregated and measured.
+- **Sales Revenue** represents the total income from sales.
+    
+- **Quantity Sold** tells us the number of units purchased.
+    
+- **Profit Margin** helps us analyze profitability.
+
+## Tables and Matrices
+
+A **Table** in Power BI is a simple way to display data where values are arranged in **columns**, and the data is listed row by row. Each column represents a field, and each row represents a record.
+
+![[Pasted image 20261014125605.png]]
+
+A **Matrix** expands on the concept of a table by allowing us to display data across multiple dimensions. Unlike tables, which only have columns, matrices can show both **rows and columns of values**.
+
+![[Pasted image 20261014125623.png]]
+
+## Charts for Visualizing Data
+
+#### Categorical data charts
+![[Pasted image 20261014125902.png]]![[Pasted image 20261014125920.png]]![[Pasted image 20261014130034.png]]![[Pasted image 20261014130200.png]]![[Pasted image 20261014130212.png]]![[Pasted image 20261014130222.png]]
+
+#### Numerical data charts
+
+![[Pasted image 20261014130311.png]]![[Pasted image 20261014130318.png]]
+![[Pasted image 20261014130327.png]]
+![[Pasted image 20261014130337.png]]
+
+#### Other charts
+
+![[Pasted image 20261014130402.png]]
+![[Pasted image 20261014130411.png]]
+![[Pasted image 20261014130420.png]]
+
+![[Pasted image 20261014130431.png]]
+
+### Summary charts
+![[Pasted image 20261014130503.png]]
+
+Use bar charts for comparing quantities across categories. Use line charts for showing trends over time.
+
+Use pie charts to show proportions. Use scatter plots to display relationships between variables
+# 3.4 Data Visualization Best Practices
+## Deceptive Charts
+
+### Truncated Y-Axis
+
+**Problem:** A bar chart with a y-axis starting at another value instead of 0 makes small differences appear large.  
+**Example:** The figure compares the **average price by category.** The chart on the left, with a **truncated y-axis,** exaggerates the differences between categories, making the gap between Electronics, Furniture, and Stationery appear much larger than it actually is. In contrast, the chart on the right, with a **full y-axis starting from zero,** presents the same differences more accurately, avoiding the illusion of a greater disparity.
+![[Pasted image 20261014130624.png]]
+**Solution**: Always start bar chart axes at zero to maintain proportional accuracy.
+
+### Unnecessary 3D and embellishments
+
+**Problem**: 3D effects can distort the perception of values.  
+**Example:** A 3D pie chart makes some slices appear larger due to perspective, even if they represent the same percentage. In the left chart, the Furniture category looks disproportionately larger due to the 3D effect, even though the actual proportions are consistent. In contrast, the 2D pie chart on the right accurately represents the true size relationships between Electronics, Furniture, and Stationery without distortion.
+![[Pasted image 20261014130710.png]]
+**Solution**: Use simple, flat designs to ensure clarity.
+
+### Manipulating dual axes
+
+**Problem**: Dual-axis charts can make unrelated data sets appear correlated by manipulating scale ranges. This can mislead viewers into believing a cause-and-effect relationship exists when it does not.
+
+**Example**: A graph showing **phone usage (left y-axis)** and **internet usage (right y-axis)** might be adjusted to make their trends appear identical. This could falsely suggest that increased phone usage directly causes higher internet usage, when in reality, both may be rising due to **technological advancements and accessibility** rather than one influencing the other. If the scales are manipulated, the two lines may look highly correlated even if they aren’t. Viewers might assume that one variable directly drives changes in the other.
+![[Pasted image 20261014130827.png]]
+**Solution**:
+- Use dual axes **only** when comparing **related** data sets, such as revenue and profit margins.
+    
+- Clearly label both axes and ensure the scale is appropriate.
+    
+- If the relationship isn’t direct, consider using **separate charts** instead of a dual-axis graph.
+
+### Misleading reversed x axis
+**Problem**: Reversing the x-axis direction can mislead viewers by flipping the natural relationship between variables.
+
+**Example**: A chart comparing **GDP (Y-axis)** and **male life expectancy (X-axis)**, but with life expectancy decreasing from left to right, may confuse viewers. Normally, higher GDP is associated with longer life expectancy, but a reversed x-axis might make it seem like lower life expectancy is linked to higher GDP.
+![[Pasted image 20261014130917.png]]
+**Solution**: Always maintain a standard left-to-right progression for numerical or time-based data to ensure clear and accurate interpretation.
+
+## Key Principles for Effective Data Visualization
+
+### Chart Goal
+
+Cole Nussbaumer Knaflic, the author of Storytelling with Data: A Data Visualization Guide for Business Professionals, asserts that there are two types of charts, exploratory and explanatory.
+
+**Exploratory** charts present data and let the people who view the chart draw their own conclusions.
+
+**Explanatory** charts present a focused message, and insight extracted from or backed up by the data, to make a point.
+
+![[Pasted image 20261014131647.png]]
