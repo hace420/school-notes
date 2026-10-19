@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business Analytics (Comm 213)/Ch.3 - Data Visualization.md",
+                "file": "Business Management (MANA 201)/Lecture 6 - Managing H.R..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ch.3 - Data Visualization"
+              "title": "Lecture 6 - Managing H.R."
             }
           }
         ]
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "789be0b53f9eb1e6",
@@ -187,21 +188,24 @@
   },
   "active": "37e0e338f0086557",
   "lastOpenFiles": [
-    "Business Analytics (Comm 213)/Ch.2 -  Structuring and Summarizing Data for Analysis.md",
+    "Business Management (MANA 201)/Lecture 5.1 - Managing Organizational Structure.md",
+    "Business Management (MANA 201)/Lecture 5.2 - Managing Communication and Information Technology (IT).md",
+    "Business Management (MANA 201)/Lecture 6 - Managing H.R..md",
+    "Probability and stats (Comp 233)/Lecture 9 - Bernoulli and Binomial random variable.md",
+    "Pasted image 20261019183717.png",
+    "Pasted image 20261019183006.png",
+    "Pasted image 20261019181535.png",
+    "Pasted image 20261019181310.png",
+    "Business Management (MANA 201)/Lecture 3 - Managing Planning and Strategy.md",
+    "Pasted image 20261019180230.png",
     "Business Analytics (Comm 213)/Ch.3 - Data Visualization.md",
+    "Business Analytics (Comm 213)/Ch.2 -  Structuring and Summarizing Data for Analysis.md",
     "Pasted image 20261014131647.png",
     "Pasted image 20261014130917.png",
     "Pasted image 20261014130827.png",
     "Pasted image 20261014130710.png",
     "Pasted image 20261014130624.png",
-    "Pasted image 20261014130503.png",
-    "Pasted image 20261014130431.png",
-    "Pasted image 20261014130420.png",
-    "Pasted image 20261014130411.png",
-    "Pasted image 20261014130402.png",
-    "Business Management (MANA 201)/Lecture 5.2 - Managing Communication and Information Technology (IT).md",
     "Geology (GEOG 220)/Lecture 1 - Intro.md",
-    "Business Management (MANA 201)/Lecture 5.1 - Managing Organizational Structure.md",
     "Business Management (MANA 201)/Lecture 5 - Managing Communication and Information Technology (IT).md",
     "Business Management (MANA 201)/Lecture 1.2 - Chapter 2.md",
     "Business Management (MANA 201)/Lecture 1.1- Intro.md",
@@ -220,10 +224,8 @@
     "java 2 (Comp 249)/Lecture 12 - Node as Inner class.md",
     "java 2 (Comp 249)/Lecture 11 - Nested classes.md",
     "java 2 (Comp 249)/Lecture 10b - Linked data Structures.md",
-    "java 2 (Comp 249)/Lecture 10 - Generics.md",
     "java 2 (Comp 249)",
     "Geology (GEOG 220)",
-    "Business Management (MANA 201)/Lecture 3 - Managing Planning and Strategy.md",
     "Business Management (MANA 201)",
     "Business Analytics (Comm 213)",
     "Comm 213",
