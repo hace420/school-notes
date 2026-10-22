@@ -55,3 +55,13 @@
 - It is known that it is impossible to express an anti-derivative Φ explicitly:
 
 
+## Reproductive Property of Normal Distribution
+
+![[Pasted image 20261022112937.png]]
+
+![[Pasted image 20261022112948.png]]
+
+## Notation: zα
+![[Pasted image 20261022113146.png]]
+
+![[Pasted image 20261022113255.png]]
