@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability and stats (Comp 233)/Lecture 11 - Normal random variables , Chi square, t-distribution.md",
+                "file": "Algorithms (Comp 352)/Lecture 12 - Heap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 11 - Normal random variables , Chi square, t-distribution"
+              "title": "Lecture 12 - Heap"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Complexity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,19 +188,21 @@
   },
   "active": "6104f14c74026ca5",
   "lastOpenFiles": [
-    "Pasted image 20261022113255.png",
-    "Pasted image 20261022113146.png",
-    "Pasted image 20261022112948.png",
-    "Pasted image 20261022112937.png",
-    "Pasted image 20261022111344.png",
-    "Pasted image 20261022111026.png",
-    "Pasted image 20261022110910.png",
-    "Pasted image 20261022110533.png",
-    "Pasted image 20261022104155.png",
-    "Pasted image 20261022103722.png",
+    "Pasted image 20261023110208.png",
+    "Pasted image 20261023110124.png",
+    "Pasted image 20261023110023.png",
+    "Pasted image 20261023105628.png",
+    "Pasted image 20261023105526.png",
+    "Pasted image 20261023105450.png",
     "Algorithms (Comp 352)/Lecture 11 - Priority  Queues.md",
+    "Algorithms (Comp 352)/Lecture 12 - Heap.md",
+    "Algorithms (Comp 352)/Lecture 10 - Tress 2.md",
+    "Pasted image 20261023104716.png",
+    "Pasted image 20261023104656.png",
+    "Pasted image 20261023104444.png",
+    "Pasted image 20261023104114.png",
+    "Pasted image 20261023104104.png",
     "Probability and stats (Comp 233)/Lecture 11 - Normal random variables , Chi square, t-distribution.md",
-    "Pasted image 20261021105657.png",
     "Probability and stats (Comp 233)/Lecture 9 - Bernoulli and Binomial random variable.md",
     "Probability and stats (Comp 233)/Lecture 10 - Binomial Random Variable pt.2.md",
     "Business Management (MANA 201)/Lecture 6 - Managing H.R..md",
@@ -222,8 +224,6 @@
     "java 2 (Comp 249)/Lecture 7 - Recursion.md",
     "java 2 (Comp 249)/Lecture 5b - Exception Handling.md",
     "java 2 (Comp 249)/Lecture 5a - Polymorphism part 2.md",
-    "java 2 (Comp 249)/Lecture 4 - Polymorphism.md",
-    "java 2 (Comp 249)/Lecture 3 - Inheritance part 2.md",
     "java 2 (Comp 249)",
     "Geology (GEOG 220)",
     "Business Management (MANA 201)",

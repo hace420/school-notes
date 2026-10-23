@@ -57,7 +57,7 @@ Performance:
 - insert takes O(1) time since we can insert the item at the beginning or end of the sequence 
 - removeMin and min take O(n) time since we have to traverse the entire sequence to find the smallest key
 ##### Sorted List
-
+#Complexity 
 ![[Pasted image 20261021105003.png]]
 
 # Selection-Sort
@@ -65,7 +65,7 @@ Performance:
 - Find the minimum value in the collection (list/sequence, P.Q., etc.)
 - Swap it with the value in the first position
 - Repeat the steps above for the remainder of the list (starting at the second position and advancing each time)
-
+#Complexity 
 ***(First loop): Inserting the elements into the priority queue with n insert operations takes O(n) time***
 
 ***(Second loop) Removing the elements in sorted order(repeated seclection) from the priority queue with n removeMin operations takes time proportional to***
@@ -77,6 +77,7 @@ Performance:
 - Insert the element into the correct position in the already-sorted list
 - Repeat until no input elements remain
 
+#Complexity 
 ***(First loop): Inserting the elements into the priority queue with n insert operations takes time proportional to 1 + 2 + …+ n***
 
 ***(Second loop): Removing the elements in sorted order from the priority queue with a series of n removeMin operations takes O(n) time***
