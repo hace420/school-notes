@@ -1,3 +1,25 @@
+# Ch 1
+![[Pasted image 20261025131527.png]]
+
+# Ch2
+
+![[Pasted image 20261025134014.png]]
+
+![[Pasted image 20261025134147.png]]
+
+![[Pasted image 20261025134324.png]]
+
+![[Pasted image 20261025134348.png]]
+
+# CH 3
+
+![[Pasted image 20261025143937.png]]
+
+![[Pasted image 20261025144142.png]]
+
+![[Pasted image 20261025144521.png]]
+
+
 # Ch 4
 
 a vision statement reveals the big picture of the organization and its dream for the future.
@@ -55,7 +77,40 @@ balanced scorecard links
 
 a gap analysis can be performed to determine if there is a significant deviation between major goals and actual performance levels form following a particular strategy
 
+![[Pasted image 20261025154625.png]]
 
+# Ch 5
 
+![[Pasted image 20261025165738.png]]
 
+![[Pasted image 20261025165828.png]]
 
+![[Pasted image 20261025170002.png]]
+
+![[Pasted image 20261025170026.png]]
+
+![[Pasted image 20261025170131.png]]
+
+# CH 6
+
+![[Pasted image 20261025174150.png]]
+
+![[Pasted image 20261025174845.png]]
+
+![[Pasted image 20261025174925.png]]
+
+![[Pasted image 20261025175415.png]]
+
+# Ch 7
+
+![[Pasted image 20261025181615.png]]
+
+![[Pasted image 20261025190625.png]]
+
+![[Pasted image 20261025191018.png]]
+
+![[Pasted image 20261025191916.png]]
+
+![[Pasted image 20261025192054.png]]
+
+![[Pasted image 20261025192147.png]]

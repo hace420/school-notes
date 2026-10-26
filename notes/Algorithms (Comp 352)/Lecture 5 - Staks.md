@@ -44,3 +44,6 @@ A push operation will then throw a FullStackException
 
 
 
+
+# HMWK 
+![[Pasted image 20261024174630.png]]

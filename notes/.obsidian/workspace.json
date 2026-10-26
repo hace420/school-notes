@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "02abfca3cb58053f",
+        "id": "2decb024f8d1d18c",
         "type": "tabs",
         "children": [
           {
-            "id": "6104f14c74026ca5",
+            "id": "37e0e338f0086557",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms (Comp 352)/Lecture 12 - Heap.md",
+                "file": "Business Management (MANA 201)/Cheat Sheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 12 - Heap"
+              "title": "Cheat Sheet"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Complexity",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "789be0b53f9eb1e6",
@@ -186,44 +185,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "6104f14c74026ca5",
+  "active": "37e0e338f0086557",
   "lastOpenFiles": [
-    "Pasted image 20261023110208.png",
-    "Pasted image 20261023110124.png",
-    "Pasted image 20261023110023.png",
-    "Pasted image 20261023105628.png",
-    "Pasted image 20261023105526.png",
-    "Pasted image 20261023105450.png",
-    "Algorithms (Comp 352)/Lecture 11 - Priority  Queues.md",
-    "Algorithms (Comp 352)/Lecture 12 - Heap.md",
-    "Algorithms (Comp 352)/Lecture 10 - Tress 2.md",
-    "Pasted image 20261023104716.png",
-    "Pasted image 20261023104656.png",
-    "Pasted image 20261023104444.png",
-    "Pasted image 20261023104114.png",
-    "Pasted image 20261023104104.png",
-    "Probability and stats (Comp 233)/Lecture 11 - Normal random variables , Chi square, t-distribution.md",
-    "Probability and stats (Comp 233)/Lecture 9 - Bernoulli and Binomial random variable.md",
-    "Probability and stats (Comp 233)/Lecture 10 - Binomial Random Variable pt.2.md",
-    "Business Management (MANA 201)/Lecture 6 - Managing H.R..md",
-    "Business Management (MANA 201)/Lecture 5.1 - Managing Organizational Structure.md",
+    "Pasted image 20261025192147.png",
+    "Pasted image 20261025192054.png",
+    "Pasted image 20261025191916.png",
+    "Pasted image 20261025191018.png",
+    "Pasted image 20261025190625.png",
+    "Pasted image 20261025181615.png",
+    "Pasted image 20261025175415.png",
+    "Pasted image 20261025174925.png",
+    "Pasted image 20261025174845.png",
+    "Pasted image 20261025174150.png",
     "Business Management (MANA 201)/Lecture 5.2 - Managing Communication and Information Technology (IT).md",
+    "Business Management (MANA 201)/Lecture 5.1 - Managing Organizational Structure.md",
+    "Business Management (MANA 201)/Cheat Sheet.md",
+    "Pasted image 20261025170131.png",
     "Business Management (MANA 201)/Lecture 3 - Managing Planning and Strategy.md",
+    "Business Management (MANA 201)/Lecture 2 - Decision Making.md",
+    "Business Management (MANA 201)/Lecture 1.2 - Chapter 2.md",
+    "Business Management (MANA 201)/Lecture 1.1- Intro.md",
+    "Algorithms (Comp 352)/Lecture 5 - Staks.md",
+    "Algorithms (Comp 352)/Lecture 4 - Recursion 2.md",
+    "Algorithms (Comp 352)/Lecture 7 - Linked Lists & Iterators.md",
+    "Algorithms (Comp 352)/Lecture 12 - Heap.md",
+    "Probability and stats (Comp 233)/Lecture 11 - Normal random variables , Chi square, t-distribution.md",
+    "Probability and stats (Comp 233)/Lecture 10 - Binomial Random Variable pt.2.md",
+    "Probability and stats (Comp 233)/Lecture 9 - Bernoulli and Binomial random variable.md",
+    "Algorithms (Comp 352)/Lecture 2 - Analysis.md",
+    "Algorithms (Comp 352)/Lecture 11 - Priority  Queues.md",
+    "Algorithms (Comp 352)/Lecture 1 - Algorithm Analysis.md",
+    "Probability and stats (Comp 233)/Lecture 7 - Expectation and Properties of Expectation.md",
+    "Business Management (MANA 201)/Lecture 6 - Managing H.R..md",
+    "Probability and stats (Comp 233)/Lecture 6 - Probability of function 2.md",
     "Business Analytics (Comm 213)/Ch.3 - Data Visualization.md",
     "Business Analytics (Comm 213)/Ch.2 -  Structuring and Summarizing Data for Analysis.md",
     "Geology (GEOG 220)/Lecture 1 - Intro.md",
     "Business Management (MANA 201)/Lecture 5 - Managing Communication and Information Technology (IT).md",
-    "Business Management (MANA 201)/Lecture 1.2 - Chapter 2.md",
-    "Business Management (MANA 201)/Lecture 1.1- Intro.md",
     "Business Management (MANA 201)/Lecture 5 - Managing Organizational Structure.md",
-    "Probability and stats (Comp 233)/Lecture 7 - Expectation and Properties of Expectation.md",
-    "[[.md",
-    "java 2 (Comp 249)/Lecture 9b - Abstraction - Generics.md",
-    "java 2 (Comp 249)/Lecture 9 - Interface part 2.md",
-    "java 2 (Comp 249)/Lecture 8 - Interfaces.md",
-    "java 2 (Comp 249)/Lecture 7 - Recursion.md",
-    "java 2 (Comp 249)/Lecture 5b - Exception Handling.md",
-    "java 2 (Comp 249)/Lecture 5a - Polymorphism part 2.md",
     "java 2 (Comp 249)",
     "Geology (GEOG 220)",
     "Business Management (MANA 201)",
