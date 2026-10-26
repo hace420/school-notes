@@ -1,6 +1,12 @@
 # Ch 1
 ![[Pasted image 20261025131527.png]]
 
+![[Pasted image 20261026135917.png]]
+
+![[Pasted image 20261026140221.png]]
+
+
+
 # Ch2
 
 ![[Pasted image 20261025134014.png]]
@@ -79,6 +85,7 @@ a gap analysis can be performed to determine if there is a significant deviation
 
 ![[Pasted image 20261025154625.png]]
 
+![[Pasted image 20261026142036.png]]
 # Ch 5
 
 ![[Pasted image 20261025165738.png]]
@@ -114,3 +121,7 @@ a gap analysis can be performed to determine if there is a significant deviation
 ![[Pasted image 20261025192054.png]]
 
 ![[Pasted image 20261025192147.png]]
+
+![[Pasted image 20261026134047.png]]
+
+![[Pasted image 20261026134638.png]]
