@@ -104,6 +104,7 @@ return t
 
 In the implementation of the List ADT by means of a doubly linked list
 
+#Complexity 
 ```
 The space used by a list with n elements is O(n)
 

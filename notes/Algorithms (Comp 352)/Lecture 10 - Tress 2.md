@@ -35,6 +35,7 @@ Example of traversal below showing external is visited 3 times in a row.
 ![[Pasted image 20261009104429.png]] 
 ### Complexity
 
+#Complexity 
 - ***Since we spend a constant time at each node, the overall running time is O(n)***
 
 # Linked Structure for General Trees (tree implementation)

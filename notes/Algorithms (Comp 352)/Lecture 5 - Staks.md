@@ -26,6 +26,7 @@ A push operation will then throw a FullStackException
 ![[Pasted image 20260923104708.png]]
 ## Performance and Limitations
 
+#Complexity 
 - Performance
 	- Let n be the number of elements in the stack
 	- The space used is O(n)

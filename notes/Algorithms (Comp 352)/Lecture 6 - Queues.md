@@ -24,6 +24,7 @@ In general, we need to replace the array k = n/c times for all n push() to take 
 
 ![[Pasted image 20260925102747.png]]
 
+#Complexity 
 Since c is a constant, T(n) is O(n + k2), i.e., O(n2). That is
 	 T(n) is the complexity to perform n push() operations. Hence, the amortized time of one single push() operation is O(n).
 
@@ -35,6 +36,7 @@ array 10 times (1 -> 2 -> 4 -> 8 -> 16 -> 32 -> 64 -> 128 -> 256 -> 512 -> 1024)
 
 ![[Pasted image 20260925103149.png]]
 
+#Complexity 
 - Consequently, T(n) (which is needed to perform n push() operations) is O(n)
 - Hence, the amortized time of a single push() operation is O(1)
 
@@ -69,6 +71,7 @@ Main queue operations:
 Initially, we assign f = r = 0, which indicates that the queue is empty (generally f = r indicates empty queue).
 Index r is kept empty. Insertion is made into Q[r] then r is incremented.
 
+#Complexity 
 This configuration would allow enqueue(), dequeue() and front() to be performed in constant time, that is O(1)
 
 **However, this configuration has a serious problem.**
@@ -92,6 +95,7 @@ Notice that Index r is kept empty, which means that the queue can hold a maximum
 
 ## Growable Array-based Queue
 
+#Complexity 
 Similar to what have been explained for growable array-based stack, the enqueue() operation has amortized running time of:
 - **O(n) with the incremental strategy**
 - **O(1) with the doubling strategy**
