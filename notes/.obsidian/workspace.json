@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2decb024f8d1d18c",
+        "id": "dff373ada296e440",
         "type": "tabs",
         "children": [
           {
-            "id": "37e0e338f0086557",
+            "id": "3f638ea8b64becab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms (Comp 352)/Cheet sheet.md",
+                "file": "Business Management (MANA 201)/Lecture 7.2 - Ch.8 Managing Motivation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cheet sheet"
+              "title": "Lecture 7.2 - Ch.8 Managing Motivation"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Complexity",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,27 +185,30 @@
       "bases:Create new base": false
     }
   },
-  "active": "37e0e338f0086557",
+  "active": "3f638ea8b64becab",
   "lastOpenFiles": [
-    "Pasted image 20261030221910.png",
+    "Business Management (MANA 201)/Lecture 7.1 - Ch.1 Personality.md",
+    "Business Management (MANA 201)/Lecture 7.2 - Ch.8 Managing Motivation.md",
+    "Pasted image 20261102190256.png",
+    "Pasted image 20261102185722.png",
+    "Pasted image 20261102185705.png",
+    "Pasted image 20261102185406.png",
+    "Pasted image 20261102185335.png",
+    "Pasted image 20261102185255.png",
+    "Business Management (MANA 201)/Lecture 5.1 - Managing Organizational Structure.md",
+    "Pasted image 20261102184804.png",
+    "Pasted image 20261102184744.png",
+    "Pasted image 20261102184609.png",
+    "Pasted image 20261102184443.png",
+    "2026-11-02.md",
+    "Algorithms (Comp 352)/Cheet sheet.md",
     "Algorithms (Comp 352)/Lecture 10 - Tress 2.md",
     "Algorithms (Comp 352)/Lecture 9 - Trees.md",
-    "Algorithms (Comp 352)/Cheet sheet.md",
-    "Pasted image 20261007105304.png",
-    "Pasted image 20261030204125.png",
-    "Pasted image 20261030164404.png",
-    "Pasted image 20261030164325.png",
     "Algorithms (Comp 352)/Lecture 6 - Queues.md",
     "Algorithms (Comp 352)/Lecture 5 - Staks.md",
     "Algorithms (Comp 352)/Lecture 7 - Linked Lists & Iterators.md",
     "nn.md",
     "Untitled.md",
-    "Pasted image 20261030112315.png",
-    "Pasted image 20261030111845.png",
-    "Pasted image 20261030111726.png",
-    "Pasted image 20261030111610.png",
-    "Pasted image 20261030111513.png",
-    "Pasted image 20261030111507.png",
     "Algorithms (Comp 352)/Lecture 13 - Hash Tables.md",
     "Business Management (MANA 201)/Cheat Sheet.md",
     "Business Management (MANA 201)/Lecture 3 - Managing Planning and Strategy.md",
@@ -213,16 +216,12 @@
     "Business Management (MANA 201)/Lecture 1.2 - Chapter 2.md",
     "Business Management (MANA 201)/Lecture 1.1- Intro.md",
     "Business Management (MANA 201)/Lecture 5.2 - Managing Communication and Information Technology (IT).md",
-    "Business Management (MANA 201)/Lecture 5.1 - Managing Organizational Structure.md",
     "Algorithms (Comp 352)/Lecture 4 - Recursion 2.md",
     "Algorithms (Comp 352)/Lecture 12 - Heap.md",
     "Probability and stats (Comp 233)/Lecture 11 - Normal random variables , Chi square, t-distribution.md",
     "Probability and stats (Comp 233)/Lecture 10 - Binomial Random Variable pt.2.md",
     "Probability and stats (Comp 233)/Lecture 9 - Bernoulli and Binomial random variable.md",
     "Algorithms (Comp 352)/Lecture 2 - Analysis.md",
-    "Algorithms (Comp 352)/Lecture 11 - Priority  Queues.md",
-    "Algorithms (Comp 352)/Lecture 1 - Algorithm Analysis.md",
-    "Probability and stats (Comp 233)/Lecture 7 - Expectation and Properties of Expectation.md",
     "java 2 (Comp 249)",
     "Geology (GEOG 220)",
     "Business Management (MANA 201)",
