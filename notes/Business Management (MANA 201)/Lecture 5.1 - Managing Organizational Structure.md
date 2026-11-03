@@ -21,6 +21,8 @@
 
 ## Job Characteristics Model (Hackman & Oldham)
 
+^aaff15
+
 Characteristics that determine how motivating job is:
 1. Skill Variety
 2. Task Identity
