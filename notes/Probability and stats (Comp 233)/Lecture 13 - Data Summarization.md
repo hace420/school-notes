@@ -86,5 +86,5 @@ Find (a) the sample mean, (b) the sample median, and (c) the sample mode.
 - As their names suggest they split a data set into 4 parts with roughly equal number of values. 
 - *Note: the Second Quartile is simply the median*
 
-### Box Plots
+
 
