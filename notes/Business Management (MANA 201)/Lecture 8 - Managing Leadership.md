@@ -13,14 +13,15 @@
 
 *→ Identifies two basic dimensions of leadership behaviours:*
 
-1. Consideration (employee-centered) behaviours: showing care, trust and respect towards subordinates 
+1. *Consideration (employee-centered) behaviours:* showing care, trust and respect towards subordinates 
 - Emphasis on well-being of employees and interpersonal relations
 
-2. Initiating Structure (production–oriented) behaviours: define and structure their role/ roles of their subordinates to achieve organizational goals 
+1. *Initiating Structure (production–oriented) behaviours:* define and structure their role/ roles of their subordinates to achieve organizational goals 
 - Emphasis on task-related and goal achievement behaviours, including technical aspects of job
 
 
 # Contingency Models of Leadership
+
 
 ![[Pasted image 20261109180335.png]]
 
@@ -28,9 +29,9 @@
 
 *→ What can leaders do to motivate their subordinates to reach group & org. goals?* 
 
-1. Find out what outcomes your subordinates are trying to obtain from their jobs and the organization 
-2. Reward subordinates for high performance and goal attainment with the outcomes they desire 
-3. Clarify the paths to goal attainment for subordinates, remove any obstacles to high performance, and express confidence in subordinates’ capabilities
+1. Find out what *outcomes* your subordinates are trying to obtain from their jobs and the organization 
+2. *Reward subordinates* for high performance and goal attainment with the outcomes they desire 
+3. *Clarify the paths* to goal attainment for subordinates, remove any obstacles to high performance, and express confidence in subordinates’ capabilities
 
 ## House’s Goal-Path Theory
 
@@ -89,4 +90,9 @@ c. The Leader of a task force finishes writing the final report for a project
 
 > Do people perform better under transformational leadership? Yes, they do!
 
+
+→ Changes (or transform) their subordinates in three important ways: 
+1. Subordinates have increased awareness of the importance of their jobs and high performance to the organization as a whole 
+2. Subordinates are made aware of their own needs for growth, development, and accomplishment 
+3. Subordinates work for the good of the organization, not just for their own personal gain or benefit
 
